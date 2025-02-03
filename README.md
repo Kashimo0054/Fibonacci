@@ -1,6 +1,9 @@
 # Fibonacci
 Fibonacci Series Numbers
-Lets get down to the logic 
+
+Let's get down to the logic 
+
+
 #####################################################333
 
 public static void printFibonacci(int n) {
@@ -12,6 +15,7 @@ first = 0: Represents the first Fibonacci number.
 second = 1: Represents the second Fibonacci number.
 
 ##########################################################3
+
 for (int i = 0; i < n; i++) {
     System.out.print(first + " ");
     int next = first + second;
